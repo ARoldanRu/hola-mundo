@@ -1,3 +1,3 @@
-# hola-mundo
-este es mi primer repositorio
+# adios-mundo
+este es mi primer rrep
 Autor: Alejandro Roldan
